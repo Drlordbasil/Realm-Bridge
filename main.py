@@ -1,3 +1,4 @@
+```python
 import requests
 from bs4 import BeautifulSoup
 import nltk
@@ -165,3 +166,4 @@ class UserEngagementAnalyzer:
 
 program = AutonomousWebContentAggregator()
 program.run_program()
+```
